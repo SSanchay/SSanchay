@@ -1,0 +1,2 @@
+- 👀 There are muptiple tasks i have done in data analysis and visualization.
+- For data analysis used pandas and visualization - matplotlib.pyplot, seaborn.
