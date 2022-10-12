@@ -13,6 +13,4 @@ I'm Data Scientist
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://google.github.io/mediapipe/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/30cdd34ec996c7ef9ad50fa02379e02738d27979e5aa7839899fb9e03fe65a4d/68747470733a2f2f6d65646961706970652e6465762f696d616765732f6d65646961706970655f736d616c6c2e706e67" alt="bash" width="100" height="30"/> </a> </p>
-
-<a href="https://www.codewars.com/users/Olga%20Krylova/badges/micro" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/Olga%20Krylova/badges/micro" alt="bash" width="100" height="30"/> </a> </p>
+</p>
